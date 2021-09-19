@@ -3,7 +3,7 @@
 - I'm currently studying electronics engineering, master degree at Politecnico di Milano (Italy, Milan).
 - I'm interested in designing digital electronic systems, in particular on FPGA.
 
-- You can see some of my projects here on GitHub.
+<!--- - You can see some of my projects here on GitHub.--->
 - For further information about me and my experience, search me on LinkedIn: https://linkedin.com/in/lucacasciano
 
 
